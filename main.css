@@ -172,3 +172,7 @@ p {
   font-size: 4vw;
 
 }
+#bg-music {
+  position: relative;
+  left: 120px;
+}
